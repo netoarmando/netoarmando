@@ -12,7 +12,7 @@ In 2023, I quit Red Hat to take a sabbatical and reevaluate my professional goal
 
 #### Past
 
-List of things/projects/places I worked in the last 10 years:
+List of things, projects and places I worked in the last 10 years:
 
 * [Red Hat Identity Management](https://access.redhat.com/products/identity-management/) / [FreeIPA](https://freeipa.org/)
 * [Open Music Library](https://web.archive.org/web/20200222234602/http://openmusiclibrary.org/)
