@@ -4,11 +4,13 @@ I have loved computers since my 486 DOS PC, before the Internet.
 
 Later, the Web became the first place where I really developed by customizing "open source" Perl scripts under the `cgi-bin` folder.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/armandoneto) or my [personal website](https://armandoneto.com/).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/armandoneto) or my [personal website](https://armandoneto.com/).
 
 #### Now
 
 In 2023, I quit Red Hat to take a sabbatical and reevaluate my professional goals. 
+
+I'm from Brazil and I'm living in Italy.
 
 #### Past
 
